@@ -1,2 +1,2 @@
 # Projects
-Projects I Worked on
+Projects I Worked on.
